@@ -9,5 +9,5 @@ python3 train.py \
     --epochs=3 \
     --batch_size=32 \
     --data_load_num_workers=2 \
-    --gpu_ids='0,1' \
+    --gpu_ids='0' \
     --debug_break=0
